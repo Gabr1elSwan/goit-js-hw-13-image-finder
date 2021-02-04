@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/Gabr1elSwan/goit-js-hw-13-image-finder"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Gabr1elSwan/goit-js-hw-13-image-finder"
   },
-  "homepage": "",
+  "homepage": "https://gabr1elswan.github.io/goit-js-hw-13-image-finder/",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
